@@ -1,0 +1,89 @@
+SHIPPING & DELIVERY
+===================
+Q: How long does standard shipping take?
+A: Standard shipping takes 5-7 business days. Express shipping takes 2-3 business days. Overnight shipping is available for orders placed before 2 PM.
+
+Q: How much does shipping cost?
+A: Standard shipping is free for orders over $50. For orders under $50, standard shipping costs $4.99. Express shipping costs $9.99. Overnight shipping costs $19.99.
+
+Q: Do you ship internationally?
+A: Yes, we ship to over 50 countries. International shipping takes 10-21 business days depending on the destination. International shipping starts at $14.99.
+
+Q: How do I track my order?
+A: Once your order ships, you will receive a tracking number via email. You can track your order on our website under "My Orders" or directly on the courier's website.
+
+Q: My order hasn't arrived. What should I do?
+A: If your order hasn't arrived within the expected timeframe, please check your tracking number first. If the tracking shows delivered but you haven't received it, contact our support team within 7 days of the delivery date.
+
+RETURNS & REFUNDS
+=================
+Q: What is your return policy?
+A: We offer a 30-day return policy for all items. Products must be unused, in original packaging, and in the same condition as received. Sale items are final sale and cannot be returned.
+
+Q: How do I return an item?
+A: To return an item, log into your account, go to "My Orders", select the order, and click "Return Item". Print the prepaid return label and drop the package at any post office or courier location.
+
+Q: How long does a refund take?
+A: Once we receive your return, we process it within 2-3 business days. Refunds are issued to your original payment method and typically appear within 5-10 business days depending on your bank.
+
+Q: Can I exchange an item instead of returning it?
+A: Yes, exchanges are available for items of equal or lesser value. To request an exchange, follow the same return process and select "Exchange" instead of "Refund".
+
+Q: I received a damaged item. What do I do?
+A: We're sorry to hear that. Please take photos of the damaged item and packaging, then contact our support team within 48 hours of delivery. We will send a replacement at no charge or issue a full refund.
+
+ORDERS & PAYMENTS
+=================
+Q: What payment methods do you accept?
+A: We accept Visa, Mastercard, American Express, PayPal, Apple Pay, Google Pay, and Shop Pay. We do not accept cash, checks, or wire transfers.
+
+Q: Can I cancel or modify my order?
+A: Orders can be cancelled or modified within 1 hour of placing them. After that, the order enters processing and cannot be changed. Contact support immediately if you need to make changes.
+
+Q: I was charged twice for my order. What should I do?
+A: Double charges are usually temporary authorization holds that disappear within 3-5 business days. If the charge persists, contact our support team with your order number and we will resolve it immediately.
+
+Q: Do you offer buy now pay later?
+A: Yes, we offer installment payments through Klarna and Afterpay. You can split your purchase into 4 interest-free payments at checkout.
+
+Q: Is my payment information secure?
+A: Yes, we use 256-bit SSL encryption and are PCI DSS compliant. We never store your full card details on our servers.
+
+PRODUCTS & INVENTORY
+====================
+Q: How do I know if an item is in stock?
+A: Product availability is shown on each product page. If an item is out of stock, you can click "Notify Me" to receive an email when it becomes available again.
+
+Q: Do you offer product warranties?
+A: Yes, all electronics come with a 1-year manufacturer warranty. Other products carry a 90-day warranty against defects. Warranty claims can be submitted through our website.
+
+Q: Are your products authentic?
+A: Yes, all products sold on our platform are 100% authentic. We work directly with manufacturers and authorized distributors only.
+
+Q: Can I request a product that is not on your website?
+A: You can submit product requests through our website. We review all requests and add popular items to our catalog regularly.
+
+ACCOUNT & LOYALTY
+=================
+Q: How do I create an account?
+A: Click "Sign Up" on the top right of our website. Enter your name, email, and password. You will receive a verification email to activate your account.
+
+Q: I forgot my password. How do I reset it?
+A: Click "Forgot Password" on the login page. Enter your email address and we will send you a password reset link valid for 24 hours.
+
+Q: Do you have a loyalty rewards program?
+A: Yes, our Rewards Program lets you earn 1 point for every $1 spent. Points can be redeemed for discounts. 100 points = $1 off your next order. You also get double points on your birthday month.
+
+Q: How do I apply a discount code?
+A: Enter your discount code in the "Promo Code" field at checkout and click "Apply". Only one promo code can be used per order. Codes cannot be combined with other offers.
+
+CONTACT & SUPPORT
+=================
+Q: How do I contact customer support?
+A: You can reach our support team via live chat on our website (available 24/7), email at support@shop.com (response within 24 hours), or phone at 1-800-123-4567 (Mon-Fri 9AM-6PM EST).
+
+Q: What are your customer support hours?
+A: Live chat is available 24/7. Phone support is available Monday to Friday, 9AM to 6PM EST. Email support responds within 24 hours on business days.
+
+Q: Do you have a physical store?
+A: We are an online-only retailer. However, we have pickup points in New York, Los Angeles, Chicago, and Miami where you can collect your orders.
