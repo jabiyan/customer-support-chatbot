@@ -1,137 +1,128 @@
-# 🤖 Smart E-Commerce Customer Support Chatbot (RAG)
+<h1 align="center">Hi, I'm Mustajab Hussain 👋</h1>
 
-An AI-powered customer support chatbot built using **Retrieval Augmented Generation (RAG)** — the same technology behind enterprise chatbots at companies like Shopify, Zendesk, and Intercom. Ask any question about orders, shipping, returns, or payments and get instant, accurate answers grounded in real knowledge base data.
+<h3 align="center">Data Scientist & ML Engineer | Turning Raw Data Into Business Decisions</h3>
 
-🔗 **[Live Demo → Click Here to Try It](https://your-app-link.streamlit.app)**
-
----
-
-## 📌 Problem Statement
-
-Traditional chatbots rely on rigid decision trees and often give wrong or generic answers. Large Language Models (LLMs) hallucinate and make things up. **RAG solves both problems** — it retrieves the exact relevant information first, then uses an LLM to generate a natural, accurate answer based only on that data.
-
-This means:
-- ✅ Answers are always grounded in real business data
-- ✅ No hallucinations or made-up policies
-- ✅ Easy to update — just change the knowledge base document
-
----
-
-## 🧠 How RAG Works
-
-```
-User Question
-     ↓
-Search Knowledge Base (ChromaDB Vector Store)
-     ↓
-Retrieve Top 3 Most Relevant Chunks
-     ↓
-Send Question + Context to Gemini LLM
-     ↓
-Generate Accurate, Grounded Answer
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/mustajab-hussain-312475283/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~011cf146030b8908fd">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="mailto:mustajabh015@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🎯 Features
+## 👤 About Me
 
-- 💬 Natural conversational interface with chat history
-- 🔍 Semantic search — finds relevant info even if wording differs
-- 🎯 7 sample question buttons for instant demo
-- 🧹 Clear chat button to reset conversation
-- 🔐 Secure API key input via sidebar
-- 📚 Knowledge base covers: Shipping, Returns, Payments, Orders, Account & Loyalty
+I'm a Data Scientist and ML Engineer with a background in **economics and econometrics**, giving me a unique edge in understanding business problems before touching any code. I specialize in building **predictive models, customer analytics, and data-driven solutions** that help businesses make smarter decisions.
+
+- 🔭 Delivered ML projects for real clients — including a completed Upwork contract
+- 🌱 Currently deepening expertise in end-to-end ML pipelines and deployment
+- 💡 I believe the best data science actually changes how a business operates
+- 📍 Based in Pakistan | Available for remote freelance & full-time work
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Tool | Purpose |
-|------|---------|
-| Python | Core language |
-| LangChain (LCEL) | RAG pipeline framework |
-| Google Gemini 1.5 Flash | LLM for answer generation |
-| ChromaDB | Vector database for document storage |
-| HuggingFace Embeddings | Free local text embeddings (all-MiniLM-L6-v2) |
-| Streamlit | Web app & deployment |
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Data Science & ML**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square)
+![Prophet](https://img.shields.io/badge/Prophet-003087?style=flat-square)
+
+**Visualization & Deployment**
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Tools**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 🗂️ Knowledge Base Coverage
+## 🚀 Live Apps
 
-| Topic | Questions Covered |
-|-------|------------------|
-| 🚚 Shipping & Delivery | Timelines, costs, international, tracking |
-| 🔄 Returns & Refunds | Policy, process, timelines, exchanges, damage |
-| 💳 Orders & Payments | Payment methods, cancellation, security |
-| 📦 Products | Stock, warranties, authenticity |
-| 👤 Account & Loyalty | Sign up, password reset, rewards, promo codes |
-| 📞 Support | Contact hours, channels, physical locations |
+| App | Description | Live Link |
+|-----|-------------|-----------|
+| 👥 Employee Churn Predictor | Predicts whether an employee will leave or stay | [▶ Open App](https://employee-churn-predictor-8xcm3z2xpp5vmndc7snzup.streamlit.app/) |
+| 📈 Sales Forecasting Dashboard | Forecasts 3–24 months of sales using Prophet | [▶ Open App](https://sales-forecasting-dashboard-f5kcd2ntgeg2y4d6pi5zgs.streamlit.app/) |
+| 🎬 Movie Recommendation System | Recommends movies using Collaborative & Content-Based Filtering | [▶ Open App](https://recommendation-system-m2rzjsfzmfmhy3dwfxabpt.streamlit.app/) |
+| 🤖 Customer Support Chatbot | RAG-powered e-commerce support bot using Gemini + LangChain | [▶ Open App](https://customer-support-chatbot-nnwappm2k7zt6sxibwivukk.streamlit.app/) |
 
 ---
 
-## 📁 Repository Structure
+## 📂 Featured Projects
 
-```
-customer-support-chatbot/
-│
-├── app.py                    # Streamlit web app
-├── rag_pipeline.py           # RAG pipeline (LCEL)
-├── data/
-│   └── ecommerce_faq.txt     # Knowledge base
-├── requirements.txt          # Dependencies
-└── README.md
-```
+### 👥 [Employee Churn Predictor](https://github.com/jabiyan/employee-churn-predictor)
+Predicts whether an employee is likely to leave using Random Forest. Features satisfaction level, workload, tenure, and more. Deployed as an interactive Streamlit app.
+> `Python` `Random Forest` `Streamlit` `Scikit-learn` · **[Live Demo](https://employee-churn-predictor-8xcm3z2xpp5vmndc7snzup.streamlit.app/)**
 
 ---
 
-## 🚀 Run Locally
-
-1. Clone the repository:
-```bash
-git clone https://github.com/jabiyan/customer-support-chatbot.git
-cd customer-support-chatbot
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the app:
-```bash
-streamlit run app.py
-```
-
-4. Get a free Gemini API key at [aistudio.google.com](https://aistudio.google.com) and paste it in the sidebar.
+### 📈 [Sales Forecasting Dashboard](https://github.com/jabiyan/sales-forecasting-dashboard)
+Forecasts retail sales 3–24 months ahead by category using Facebook Prophet. Interactive KPI cards, trend charts, seasonality analysis, and a forecast data table.
+> `Python` `Prophet` `Plotly` `Streamlit` · **[Live Demo](https://sales-forecasting-dashboard-f5kcd2ntgeg2y4d6pi5zgs.streamlit.app/)**
 
 ---
 
-## 💼 Business Value
-
-This chatbot can be adapted for any business to:
-
-- **Reduce support ticket volume** by 40-60% through instant self-service
-- **Provide 24/7 support** without hiring additional agents
-- **Scale instantly** — handles thousands of simultaneous conversations
-- **Update easily** — change the FAQ text file, redeploy, done
-- **Integrate anywhere** — e-commerce, SaaS, healthcare, finance
+### 🤖 [Customer Support Chatbot (RAG)](https://github.com/jabiyan/customer-support-chatbot)
+AI-powered e-commerce support chatbot built with Retrieval Augmented Generation. Uses LangChain LCEL + Google Gemini + ChromaDB to deliver accurate, hallucination-free answers grounded in real knowledge base data.
+> `Python` `LangChain` `RAG` `Gemini` `ChromaDB` `Streamlit` · **[Live Demo](https://customer-support-chatbot-nnwappm2k7zt6sxibwivukk.streamlit.app/)**
 
 ---
 
-## 🔧 How to Customize for Your Business
-
-1. Replace `data/ecommerce_faq.txt` with your own FAQ or policy documents
-2. Update the system prompt in `rag_pipeline.py` to match your brand voice
-3. Redeploy — the chatbot now answers questions about YOUR business
+### 🎬 [Movie Recommendation System](https://github.com/jabiyan/recommendation-system)
+Recommends movies using two ML approaches — User-Based Collaborative Filtering and Content-Based TF-IDF Filtering. Built on the MovieLens 100K dataset.
+> `Python` `Scikit-learn` `Cosine Similarity` `TF-IDF` `Streamlit` · **[Live Demo](https://recommendation-system-m2rzjsfzmfmhy3dwfxabpt.streamlit.app/)**
 
 ---
 
-## 👤 Author
+### 🛍️ [Customer Segmentation](https://github.com/jabiyan/Customer-Segmentation-Project_1)
+Segmented customers into 5 distinct groups using K-Means clustering. Identified high-value target customers and delivered actionable marketing insights.
+> `Python` `K-Means` `EDA` `Scikit-learn` `Seaborn`
 
-**Mustajab Hussain** — Data Scientist & ML Engineer
+---
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mustajab-hussain-312475283/)
-- 💻 [GitHub](https://github.com/jabiyan)
-- 📧 [mustajabh015@gmail.com](mailto:mustajabh015@gmail.com)
-- 💼 [Hire me on Upwork](https://www.upwork.com/freelancers/~011cf146030b8908fd)
+### 🔧 [Job Role Prediction — Motor Company](https://github.com/jabiyan/Job-prediction-project-_7)
+Classifies worker job roles from employee profile data using ML — helping HR teams automate role classification.
+> `Python` `Classification` `EDA` `Scikit-learn` `Pandas`
+
+---
+
+## 📈 What I Can Build For You
+
+| Need | What I Deliver |
+|------|---------------|
+| 🤖 Build an AI support chatbot | RAG pipeline with custom knowledge base |
+| 📉 Predict customer churn | ML model + actionable retention insights |
+| 👥 Understand your customers | Segmentation analysis with marketing strategy |
+| 📦 Forecast demand or sales | Time-series models with trend & seasonality |
+| 🎬 Recommend products/content | Collaborative + content-based recommendation engine |
+| 📊 Make sense of your data | Clean EDA reports with visual storytelling |
+
+---
+
+## 📫 Let's Work Together
+
+Whether you need a predictive model, a forecasting dashboard, or a recommendation engine — I'd love to help.
+
+📧 [mustajabh015@gmail.com](mailto:mustajabh015@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/mustajab-hussain-312475283/)
+💼 [Hire me on Upwork](https://www.upwork.com/freelancers/~011cf146030b8908fd)
